@@ -1,4 +1,4 @@
-# my_assignment
+# Simple Flutter App
 
 A new Flutter project.
 
